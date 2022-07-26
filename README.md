@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michaelchang106 - previous accountant pursuing degree in computer science
 - 👀 I’m interested in data engineering / software engineering
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on any projects to help in my foundational beginning learning for computer science.
+- 💞️ I’m looking to collaborate on any projects to help in my foundational learning for computer science.
 - 📫 How to reach me michaelchang106@yahoo.com
 
 <!---
